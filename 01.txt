@@ -1,0 +1,3 @@
+cat /etc/passwd -> flag01 password hash
+john _file_with_passwd_
+john --show _file_with_passwd_
