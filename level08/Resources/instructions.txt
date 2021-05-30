@@ -1,0 +1,6 @@
+./level08
+./level08 token
+ltrace ./level08 token
+ln -s /home/user/level08/token /tmp/link
+./level08 /tmp/link
+flag password

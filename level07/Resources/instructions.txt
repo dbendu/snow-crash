@@ -1,0 +1,3 @@
+ltrace ./level07
+LOGNAME='`getflag`'
+ltrace ./level07
